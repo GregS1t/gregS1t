@@ -19,16 +19,17 @@ profile:
 
 news: false
 selected_papers: false
-social: true
+social: false
 ---
 
 I am a Research Engineer in Machine Learning at [Observatoire de Paris | PSL](https://www.observatoiredeparis.psl.eu)
 within the **LUX** team (*Laboratoire d'etude de l'Univers et des phenomenes eXtremes*).
 
+I am part of the **[SKA (Square Kilometre Array)](https://www.skao.int/en) collaboration with aim at building the largest radiotelescope. 
 
-My current work spans two main projects: the **[SKA (Square Kilometre Array)](https://www.skao.int/en)**
-radioastronomy telescope project, where I develop ML algorithms for automated source detection in radio
-data, and **peatland cartography** using machine learning applied to remote sensing data.
+My current work consist in developping a client/server app to take advantage of the CIANNA framework to identify galaxy sources in large images using a home made YOLO detector.
+I am also playing generative AI especially with diffusion models (Plain diffusion models, Latent diffusion models...) to generate galaxy images.
+
 
 Previously, I was a Research Engineer at [IPGP](https://www.ipgp.fr)
 (Institut de Physique du Globe de Paris) in the Planetology and Space Sciences Lab, where I worked on:

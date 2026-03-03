@@ -126,9 +126,7 @@
         "TensorFlow",
         "Scikit-learn",
         "CIANNA",
-        "Unsupervised Learning",
-        "Deep Learning",
-        "Signal Processing"
+        "Deep Learning"
       ]
     },
     {
@@ -145,11 +143,11 @@
       ]
     },
     {
-      "name": "Astrophysics & Planetary Science",
+      "name": "Signal processing",
       "keywords": [
         "Seismology",
         "Radio Astronomy",
-        "Supernova Spectroscopy",
+        "Spectroscopy",
         "Remote Sensing"
       ]
     },
@@ -158,7 +156,6 @@
       "keywords": [
         "Git",
         "Docker",
-        "HPC / SLURM",
         "Jupyter",
         "Linux"
       ]
@@ -173,7 +170,7 @@
       "language": "English",
       "fluency": "Professional"
     },
-  {
+    {
       "language": "German",
       "fluency": "Basic"
     }

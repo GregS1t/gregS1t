@@ -44,14 +44,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+        },{id: "teachings-earth-data-science",
+          title: 'Earth Data Science',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets oriented on earth data (seismic data, Lidar data, satellite images...)",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/2021_earthdatascience/";
+            },},{id: "teachings-earth-data-science",
+          title: 'Earth Data Science',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets oriented on earth data (seismic data, Lidar data, satellite images...)",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2022_earthdatascience/";
+            },},{id: "teachings-earth-data-science",
+          title: 'Earth Data Science',
+          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets oriented on earth data (seismic data, Lidar data, satellite images...)",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{

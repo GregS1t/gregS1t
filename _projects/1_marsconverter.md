@@ -29,7 +29,7 @@ XML configuration file, making it straightforward to extend to future missions.
 - Computation of Mars Sol Date (MSD), Coordinated Mars Time (MTC), and Equation of Time (EOT)
 - Mission-specific configuration via XML files
 - Command-line interface (`marsnow`) for quick terminal use
-- Full documentation hosted on the [OBSPM GitLab wiki](https://gitlab.obspm.fr/gsainton/marstimeconverter/-/wikis)
+- Full documentation hosted on the [OBSPM GitLab wiki](https://gitlab.obspm.fr/gsainton/marstimeconverter)
 
 ## Technical Details
 
@@ -42,4 +42,4 @@ XML configuration file, making it straightforward to extend to future missions.
 ## Links
 
 - [GitHub repository](https://github.com/GregS1t/marstimeconverter)
-- [Full documentation](https://gitlab.obspm.fr/gsainton/marstimeconverter/-/wikis)
+- [Full documentation](https://gitlab.obspm.fr/gsainton/marstimeconverter/)

@@ -64,6 +64,11 @@ ninja.data = [{
           description: "A client–server system for asynchronous, batched deep-learning inference on astronomical FITS images, built on the CIANNA framework and IVOA standards.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cianna_otf/";
+            },},{id: "projects-rattlesnake",
+          title: 'Rattlesnake',
+          description: "A PyQt-based GUI for controlling an optical seismometer test bench — integrating an ATTOCUBE interferometer, a Newport PicoMotor, and an Agilent power supply.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rattlesnake/";
             },},{id: "projects-twinity",
           title: 'Twinity',
           description: "A digital twin for trail running — analysing FIT files from GPS watches to model fitness, fatigue, and performance readiness using the Banister system model.",

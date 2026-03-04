@@ -59,6 +59,11 @@ ninja.data = [{
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets oriented on earth data (seismic data, Lidar data, satellite images...)",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2022_earthdatascience/";
+            },},{id: "teachings-frugal-ai",
+          title: 'Frugal AI',
+          description: "Hands-on course on efficient and low-cost AI, covering computational optimization of matrix operations (Python, C, GPU) and neural network compression techniques. Part of the PSL Week programme.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2025_frugal_ai/";
             },},{
         id: 'social-cv',
         title: 'CV',

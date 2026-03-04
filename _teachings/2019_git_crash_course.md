@@ -3,7 +3,8 @@ layout: course
 title: Git Crash course
 description: This course covers the foundational aspects of Git, from create a repository, push/pull your codes and work with collaborators
 instructor: Grégory Sainton 
-year: 2019, 2020, 2021, 2022
+year: 2019
+term: 2019-2021
 
 materials:
       - name: Lecture Notes

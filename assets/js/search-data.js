@@ -44,7 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "teachings-earth-data-science",
+        },{id: "teachings-git-crash-course",
+          title: 'Git Crash course',
+          description: "This course covers the foundational aspects of Git, from create a repository, push/pull your codes and work with collaborators",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2019_git_crash_course/";
+            },},{id: "teachings-earth-data-science",
           title: 'Earth Data Science',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets oriented on earth data (seismic data, Lidar data, satellite images...)",
           section: "Teachings",handler: () => {
@@ -54,11 +59,6 @@ ninja.data = [{
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets oriented on earth data (seismic data, Lidar data, satellite images...)",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/2022_earthdatascience/";
-            },},{id: "teachings-earth-data-science",
-          title: 'Earth Data Science',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets oriented on earth data (seismic data, Lidar data, satellite images...)",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
         id: 'social-cv',
         title: 'CV',

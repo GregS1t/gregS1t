@@ -9,12 +9,6 @@ cv:
     PhD in Astrophysics. Working on SKA radioastronomy source detection. 
     Former planetary science engineer on NASA InSight and FSS lunar missions at IPGP.
 
-  social_networks:
-    - network: GitHub
-      username: GregS1t
-    - network: LinkedIn
-      username: gregory-sainton
-
   sections:
     Experience:
       - company: Observatoire de Paris — LUX Team
@@ -74,10 +68,10 @@ cv:
           - User training (20 people) and compliance software deployment
 
     Education:
-      - institution: "Universite Pierre et Marie Curie, Paris"
+      - institution: "Universite Pierre et Marie Curie"
         location: Paris, France
         url: https://lpnhe.in2p3.fr/
-        area: "Astrophysics — LPNHE | CNRS"
+        area: "Astrophysics / Particle physics — LPNHE | IN3P3 | CNRS"
         studyType: PhD
         start_date: 2001
         end_date: 2004
@@ -96,24 +90,25 @@ cv:
         end_date: 2001
         highlights:
           - "Internship: Spectroscopy of type Ia supernovae with VLT/FORS1"
+          - "Collaborations: Supernovae Cosmology Project (SCP)"
           - "Advisor: Dr. Pierre Antilogus"
 
       - institution: Universite Claude Bernard Lyon I
         location: "Villeurbanne, France"
         url: https://cral.univ-lyon1.fr/
-        area: "Physics, option Astrophysics — CRAL"
+        area: "Physics, option Astrophysics"
         studyType: "Maitrise (Master 1)"
         start_date: 1999
         end_date: 2000
         highlights:
-          - "Internship: Calibration of the Faber-Jackson relation using Cepheids"
+          - "Internship: Calibration of the Faber-Jackson relation using Cepheids using LEDA database"
           - "Advisor: Pr. Helene Courtois"
 
     Certificates:
       - name: "Docker"
         date: 2025-01
         issuer: CNRS Formation
-        icon: fa-solid fa-ship
+        icon: fa-solid fa-cubes
       - name: "Techniques et technologies de vehicules spatiaux (70h)"
         date: 2021-10
         issuer: CNES
@@ -131,8 +126,8 @@ cv:
         issuer: CNRS Formation
         icon: fa-brands fa-python
 
-    Few Projects:
-      - name: SKA — Square Kilometre Array
+    Projects:
+      - name: DL for SKA Radio Astronomy 
         start_date: 2023
         end_date: present
         summary: 🟢 Active | ML algorithms for automated source detection in radio astronomy data. YOLO-CIANNA pipeline applied to SKAO SDC1 benchmark (A&A 690, A211, 2024).
@@ -183,7 +178,7 @@ cv:
     Interests:
       - name: UltraTrail Running
         icon: fa-solid fa-person-running
-        keywords: "Regular practice"
+        keywords: " (very) regular practice"
       - name: Aikido
         icon: fa-solid fa-hand-fist
         keywords: "10 years of practice"

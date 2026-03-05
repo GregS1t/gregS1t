@@ -138,11 +138,11 @@ cv:
       - name: NASA InSight — Mars Seismology
         start_date: 2018
         end_date: 2023
-        summary: ✅ Completed | Signal processing tools, ML-based glitch detection and marsquake analysis for the SEIS instrument. Multiple peer-reviewed publications.
+        summary: ✅ Completed | Full signal processing toolbox, ML-based glitch detection and marsquake analysis for the SEIS instrument. Multiple peer-reviewed publications.
       - name: FSS — Farside Seismic Suite
         start_date: 2020
         end_date: 2023
-        summary: AIT of FSS, the future lunar seismometer for NASA CLPS programme. Vibration and thermal testing of flight and qualification models.
+        summary: ✅ Completed | AIT of FSS, the future lunar seismometer for NASA CLPS programme. Vibration and thermal testing of flight and qualification models.
       - name: Rattlesnake
         start_date: 2020
         end_date: 2023

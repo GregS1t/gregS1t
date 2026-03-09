@@ -20,6 +20,7 @@ cv:
           - SKA (Square Kilometre Array) — ML algorithms for automated source detection in radio data
           - Peatland cartography using machine learning and remote sensing
           - Development of CIANNA_OTF, a client-server system for asynchronous batched inference on FITS images
+          - "Tech: Python, PyTorch, CIANNA, CUDA, Docker, Git, SLURM, FITS"
 
       - company: Institut de Physique du Globe de Paris (IPGP)
         position: Research Engineer — Planetology and Space Sciences Lab
@@ -34,6 +35,7 @@ cv:
           - "NASA FSS mission: AIT of the Lunar seismometer (vibration tests, flight and qualification models)"
           - Administration of CPU/GPU computing servers and GitLab platform for the team
           - Selection and administration of the document management system for IPGP (IN2P3/ATRIUM)
+          - "Tech: Python, Matlab, C, TensorFlow, ObsPy, PyQt, PyVISA, Git, Linux, Arduino, Raspberry Pi"
 
       - company: "Ministere de l'Education Nationale — Academie de Creteil"
         position: Primary School Teacher for deaf and hearing-impaired children
@@ -66,6 +68,7 @@ cv:
           - Development of order routing modules for derivatives and portfolio management (Java/Oracle)
           - Development of portfolio performance attribution modules (Java/Oracle)
           - User training (20 people) and compliance software deployment
+          - "Tech: Java, Oracle, SQL"
 
     Education:
       - institution: "Universite Pierre et Marie Curie"
@@ -80,6 +83,18 @@ cv:
           - "Director: Dr. Reynald Pain"
           - "Collaborations: Supernovae Cosmology Project (SCP) and Supernovae Legacy Survey (SNLS)"
           - "Observations: Keck (10m), VLT (8m), WHT (3.6m), CFHT"
+
+      - institution: "Universite Pierre et Marie Curie"
+        location: Paris, France
+        area: "Simulation des phénomènes collectifs : de la physique à la finance"
+        studyType: Master 2
+        start_date: 2005
+        end_date: 2005
+        highlights:
+          - Finance de marché: gestion de portefeuille, gestion des risques, produits dérivés
+          - Méthodes de simulation: Monte-Carlo, méthodes de copules, mathématiques financières 
+          - Tech: C, C++
+          - Internship: Simulation of financial portfolio and risk management using Copule methods
 
       - institution: Universite Claude Bernard Lyon I
         location: "Villeurbanne, France"
